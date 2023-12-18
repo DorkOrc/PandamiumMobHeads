@@ -1,0 +1,183 @@
+Allay
+Curled Up Armadillo
+Armadillo
+Lucy Axolotl
+Wild Axolotl
+Gold Axolotl
+Cyan Axolotl
+Blue Axolotl
+Bat
+Bee
+Pollinated Bee
+Angry Bee
+Angry Pollinated Bee
+Blaze
+Camel
+Tabby Cat
+Tuxedo Cat
+Ginger Cat
+Siamese Cat
+British Shorthair Cat
+Calico Cat
+Persian Cat
+Ragdoll Cat
+White Cat
+Jellie Cat
+Black Cat
+Cave Spider
+Chicken
+Cod
+Cow
+Charged Creeper
+Creeper
+Dolphin
+Donkey
+Drowned
+Elder Guardian
+Endermite
+Evoker
+Fox
+Snowy Fox
+Temperate Frog
+Warm Frog
+Cold Frog
+Ghast
+Glow Squid
+Goat
+Screaming Goat
+Guardian
+Hoglin
+White Horse
+Creamy Horse
+Chestnut Horse
+Brown Horse
+Black Horse
+Grey Horse
+Dark Brown Horse
+Husk
+Iron Golem
+Creamy Llama
+White Llama
+Brown Llama
+Grey Llama
+Magma Cube
+Red Mooshroom
+Brown Mooshroom
+Mule
+Ocelot
+Aggressive Panda
+Lazy Panda
+Playful Panda
+Worried Panda
+Brown Panda
+Weak Panda
+Panda
+Red Parrot
+Blue Parrot
+Green Parrot
+Light Blue Parrot
+Grey Parrot
+Phantom
+Pig
+Piglin
+Piglin Brute
+Pillager
+Polar Bear
+Pufferfish
+Toast Rabbit
+Brown Rabbit
+White Rabbit
+Black Rabbit
+Black and White Rabbit
+Gold Rabbit
+Salt and Pepper Rabbit
+Ravager
+Salmon
+Shulker
+Silverfish
+Skeleton
+Skeleton Horse
+Slime
+Sniffer
+Snow Golem in a Pumpkin
+Snow Golem
+Spider
+Squid
+Stray
+Strider
+Cold Strider
+Tadpole
+Creamy Trader Llama
+White Trader Llama
+Brown Trader Llama
+Grey Trader Llama
+Tropical Fish
+Turtle
+Vex
+Charging Vex
+Armourer Villager
+Butcher Villager
+Cartographer Villager
+Cleric Villager
+Farmer Villager
+Fisherman Villager
+Fletcher Villager
+Leatherworker Villager
+Librarian Villager
+Mason Villager
+Nitwit Villager
+Unemployed Villager
+Shepherd Villager
+Toolsmith Villager
+Weaponsmith Villager
+Vindicator
+Wandering Trader
+Warden
+Witch
+Wither
+Invulnerable Wither
+Armoured Wither
+Armoured Invulnerable Wither
+Wither Skeleton
+Wolf
+Angry Wolf
+Zoglin
+Zombie
+Zombie Armourer
+Zombie Butcher
+Zombie Cartographer
+Zombie Cleric
+Zombie Farmer
+Zombie Fisherman
+Zombie Fletcher
+Zombie Leatherworker
+Zombie Librarian
+Zombie Mason
+Zombie Nitwit
+Zombie Villager
+Zombie Shepherd
+Zombie Toolsmith
+Zombie Weaponsmith
+Zombified Piglin
+Black Sheep
+Blue Sheep
+Brown Sheep
+Cyan Sheep
+Grey Sheep
+Green Sheep
+Jeb Sheep
+Light Blue Sheep
+Light Grey Sheep
+Lime Sheep
+Magenta Sheep
+Orange Sheep
+Pink Sheep
+Purple Sheep
+Red Sheep
+White Sheep
+Yellow Sheep
+
+Not required in order to complete the Taxidermist advancement:
+
+Ender Dragon
+Zombie Horse

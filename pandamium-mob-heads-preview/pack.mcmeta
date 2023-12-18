@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "description": [
+			"Pandamium: Mob Heads Preview\n",
+			{
+				"text": "/function ",
+				"color":"gray"
+			},
+			{
+				"text": "pandamium.mob_heads:give_all",
+				"color":"aqua"
+			}
+		],
+        "pack_format": 27
+    }
+}
