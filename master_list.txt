@@ -13,6 +13,7 @@ Angry Bee
 Angry Pollinated Bee
 Blaze
 Bogged
+Breeze
 Camel
 Tabby Cat
 Tuxedo Cat
@@ -35,6 +36,7 @@ Dolphin
 Donkey
 Drowned
 Elder Guardian
+Enderman
 Endermite
 Evoker
 Fox
