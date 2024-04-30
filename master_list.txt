@@ -1,31 +1,33 @@
+# Taxidermist Checklist (198):
 Allay
-Curled Up Armadillo
 Armadillo
+Curled Up Armadillo
+Blue Axolotl
+Cyan Axolotl
+Gold Axolotl
 Lucy Axolotl
 Wild Axolotl
-Gold Axolotl
-Cyan Axolotl
-Blue Axolotl
 Bat
-Bee
-Pollinated Bee
 Angry Bee
 Angry Pollinated Bee
+Bee
+Pollinated Bee
 Blaze
 Bogged
+Shorn Bogged
 Breeze
 Camel
-Tabby Cat
-Tuxedo Cat
-Ginger Cat
-Siamese Cat
+Black Cat
 British Shorthair Cat
 Calico Cat
+Ginger Cat
+Jellie Cat
 Persian Cat
 Ragdoll Cat
+Siamese Cat
+Tabby Cat
+Tuxedo Cat
 White Cat
-Jellie Cat
-Black Cat
 Cave Spider
 Chicken
 Cod
@@ -41,45 +43,45 @@ Endermite
 Evoker
 Fox
 Snowy Fox
+Cold Frog
 Temperate Frog
 Warm Frog
-Cold Frog
 Ghast
 Glow Squid
 Goat
 Screaming Goat
 Guardian
 Hoglin
-White Horse
-Creamy Horse
-Chestnut Horse
-Brown Horse
 Black Horse
-Grey Horse
+Brown Horse
+Chestnut Horse
+Creamy Horse
 Dark Brown Horse
+Grey Horse
+White Horse
 Husk
 Iron Golem
-Creamy Llama
-White Llama
 Brown Llama
+Creamy Llama
 Grey Llama
+White Llama
 Magma Cube
-Red Mooshroom
 Brown Mooshroom
+Red Mooshroom
 Mule
 Ocelot
 Aggressive Panda
-Lazy Panda
-Playful Panda
-Worried Panda
 Brown Panda
-Weak Panda
+Lazy Panda
 Panda
-Red Parrot
+Playful Panda
+Weak Panda
+Worried Panda
 Blue Parrot
+Grey Parrot
 Green Parrot
 Light Blue Parrot
-Grey Parrot
+Red Parrot
 Phantom
 Pig
 Piglin
@@ -87,37 +89,54 @@ Piglin Brute
 Pillager
 Polar Bear
 Pufferfish
-Toast Rabbit
-Brown Rabbit
-White Rabbit
+White Splotched Rabbit
 Black Rabbit
-Black and White Rabbit
+Brown Rabbit
 Gold Rabbit
 Salt and Pepper Rabbit
+Toast Rabbit
+White Rabbit
 Ravager
 Salmon
+Black Sheep
+Blue Sheep
+Brown Sheep
+Cyan Sheep
+Green Sheep
+Grey Sheep
+Jeb Sheep
+Light Blue Sheep
+Light Grey Sheep
+Lime Sheep
+Magenta Sheep
+Orange Sheep
+Pink Sheep
+Purple Sheep
+Red Sheep
+White Sheep
+Yellow Sheep
 Shulker
 Silverfish
 Skeleton
 Skeleton Horse
 Slime
 Sniffer
-Snow Golem in a Pumpkin
+Shorn Snow Golem
 Snow Golem
 Spider
 Squid
 Stray
-Strider
 Cold Strider
+Strider
 Tadpole
-Creamy Trader Llama
-White Trader Llama
 Brown Trader Llama
+Creamy Trader Llama
 Grey Trader Llama
+White Trader Llama
 Tropical Fish
 Turtle
-Vex
 Charging Vex
+Vex
 Armourer Villager
 Butcher Villager
 Cartographer Villager
@@ -129,21 +148,37 @@ Leatherworker Villager
 Librarian Villager
 Mason Villager
 Nitwit Villager
-Unemployed Villager
 Shepherd Villager
 Toolsmith Villager
+Unemployed Villager
 Weaponsmith Villager
 Vindicator
 Wandering Trader
 Warden
 Witch
-Wither
-Invulnerable Wither
-Armoured Wither
 Armoured Invulnerable Wither
+Armoured Wither
+Invulnerable Wither
+Wither
 Wither Skeleton
-Wolf
-Angry Wolf
+Ashen Wolf
+Angry Ashen Wolf
+Black Wolf
+Angry Black Wolf
+Chestnut Wolf
+Angry Chestnut Wolf
+Pale Wolf
+Angry Pale Wolf
+Rusty Wolf
+Angry Rusty Wolf
+Snowy Wolf
+Angry Snowy Wolf
+Spotted Wolf
+Angry Spotted Wolf
+Striped Wolf
+Angry Striped Wolf
+Woods Wolf
+Angry Woods Wolf
 Zoglin
 Zombie
 Zombie Armourer
@@ -157,30 +192,12 @@ Zombie Leatherworker
 Zombie Librarian
 Zombie Mason
 Zombie Nitwit
-Zombie Villager
 Zombie Shepherd
 Zombie Toolsmith
+Zombie Villager
 Zombie Weaponsmith
 Zombified Piglin
-Black Sheep
-Blue Sheep
-Brown Sheep
-Cyan Sheep
-Grey Sheep
-Green Sheep
-Jeb Sheep
-Light Blue Sheep
-Light Grey Sheep
-Lime Sheep
-Magenta Sheep
-Orange Sheep
-Pink Sheep
-Purple Sheep
-Red Sheep
-White Sheep
-Yellow Sheep
 
-Not required in order to complete the Taxidermist advancement:
-
+# Other Heads (2):
 Ender Dragon
 Zombie Horse

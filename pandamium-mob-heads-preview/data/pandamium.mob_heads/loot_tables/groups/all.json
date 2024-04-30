@@ -1,0 +1,972 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/allay/allay"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/armadillo/armadillo"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/armadillo/armadillo_curled_up"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/axolotl/blue_axolotl"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/axolotl/cyan_axolotl"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/axolotl/gold_axolotl"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/axolotl/lucy_axolotl"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/axolotl/wild_axolotl"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bat/bat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bee/angry_bee"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bee/angry_pollinated_bee"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bee/bee"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bee/pollinated_bee"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/blaze/blaze"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bogged/bogged"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/bogged/bogged_shorn"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/breeze/breeze"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/camel/camel"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/black_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/british_shorthair_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/calico_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/ginger_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/jellie_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/persian_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/ragdoll_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/siamese_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/tabby_cat"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Allay - Tabby Cat"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/tuxedo_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cat/white_cat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cave_spider/cave_spider"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/chicken/chicken"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cod/cod"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/cow/cow"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/creeper/charged_creeper"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/creeper/creeper"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/dolphin/dolphin"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/donkey/donkey"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/drowned/drowned"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/elder_guardian/elder_guardian"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/enderman/enderman"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/endermite/endermite"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/ender_dragon/ender_dragon"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/evoker/evoker"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/fox/fox"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/fox/snowy_fox"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/frog/cold_frog"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/frog/temperate_frog"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/frog/warm_frog"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/ghast/ghast"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/glow_squid/glow_squid"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/goat/goat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/goat/screaming_goat"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/guardian/guardian"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/hoglin/hoglin"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Tuxedo Cat - Hoglin"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/black_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/brown_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/chestnut_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/creamy_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/dark_brown_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/gray_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/horse/white_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/husk/husk"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/iron_golem/iron_golem"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/llama/brown_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/llama/creamy_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/llama/gray_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/llama/white_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/magma_cube/magma_cube"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/mooshroom/brown_mooshroom"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/mooshroom/red_mooshroom"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/mule/mule"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/ocelot/ocelot"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/aggressive_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/brown_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/lazy_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/playful_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/weak_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/worried_panda"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/parrot/blue_parrot"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/parrot/gray_parrot"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Black Horse - Grey Parrot"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/parrot/green_parrot"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/parrot/light_blue_parrot"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/parrot/red_parrot"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/phantom/phantom"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/pig/pig"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/piglin/piglin"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/piglin_brute/piglin_brute"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/pillager/pillager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/polar_bear/polar_bear"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/pufferfish/pufferfish"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/black_and_white_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/black_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/brown_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/gold_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/salt_and_pepper_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/toast_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/rabbit/white_rabbit"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/ravager/ravager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/salmon/salmon"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/black_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/blue_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/brown_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/cyan_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/green_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/grey_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/jeb_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/light_blue_sheep"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Green Parrot - Light Blue Sheep"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/light_grey_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/lime_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/magenta_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/orange_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/pink_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/purple_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/red_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/white_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sheep/yellow_sheep"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/shulker/shulker"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/silverfish/silverfish"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/skeleton/skeleton"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/skeleton_horse/skeleton_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/slime/slime"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/sniffer/sniffer"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/snow_golem/snow_golem"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/snow_golem/snow_golem_pumpkin"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/spider/spider"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/squid/squid"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/stray/stray"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/strider/cold_strider"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/strider/strider"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/tadpole/tadpole"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/trader_llama/brown_trader_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/trader_llama/creamy_trader_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/trader_llama/gray_trader_llama"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/trader_llama/white_trader_llama"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Light Grey Sheep - White Trader Llama"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/tropical_fish/tropical_fish"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/turtle/turtle"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/vex/charging_vex"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/vex/vex"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/armourer_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/butcher_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/cartographer_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/cleric_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/farmer_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/fisherman_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/fletcher_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/leatherworker_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/librarian_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/mason_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/nitwit_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/shepherd_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/toolsmith_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/unemployed_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/villager/weaponsmith_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/vindicator/vindicator"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wandering_trader/wandering_trader"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/warden/warden"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/witch/witch"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wither/armoured_invulnerable_wither"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wither/armoured_wither"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wither/invulnerable_wither"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wither/wither"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Tropical Fish - Wither"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wither_skeleton/wither_skeleton"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/ashen_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/ashen_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/black_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/black_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/chestnut_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/chestnut_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/pale_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/pale_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/rusty_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/rusty_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/snowy_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/snowy_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/spotted_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/spotted_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/striped_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/striped_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/woods_wolf"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/woods_wolf_angry"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zoglin/zoglin"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie/zombie"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_horse/zombie_horse"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/armourer_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/butcher_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/cartographer_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/cleric_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/farmer_zombie_villager"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Wither Skeleton - Zombie Farmer"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:shulker_box",
+					"functions": [
+						{
+							"function": "minecraft:set_contents",
+							"component": "minecraft:container",
+							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/fisherman_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/fletcher_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/leatherworker_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/librarian_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/mason_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/nitwit_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/shepherd_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/toolsmith_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/unemployed_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/weaponsmith_zombie_villager"
+								},
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombified_piglin/zombified_piglin"
+								}
+							]
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Zombie Fisherman - Zombified Piglin"
+						}
+					]
+				}
+			]
+		}
+	]
+}

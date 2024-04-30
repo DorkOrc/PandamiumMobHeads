@@ -1,0 +1,1406 @@
+{
+	"allay": {
+		"entity_type": "allay",
+		"variants": [
+			{
+				"type": "allay",
+				"name": "Allay",
+				"texture_url": "http://textures.minecraft.net/texture/beea845cc0b58ff763decffe11cd1c845c5d09c3b04fe80b0663da5c7c699eb3"
+			}
+		]
+	},
+	"armadillo": {
+		"entity_type": "armadillo",
+		"variants": [
+			{
+				"type": "armadillo",
+				"name": "Armadillo",
+				"texture_url": "http://textures.minecraft.net/texture/9164ed0e0ef69b0ce7815e4300b4413a4828fcb0092918543545a418a48e0c3c"
+			},
+			{
+				"type": "armadillo_curled_up",
+				"name": "Curled Up Armadillo",
+				"texture_url": "http://textures.minecraft.net/texture/404d9164e8f76dcdde5f8d10ff67deb2d658a6008d23c44fb2f844e08591c01d"
+			}
+		]
+	},
+	"axolotl": {
+		"entity_type": "axolotl",
+		"variants": [
+			{
+				"type": "blue_axolotl",
+				"name": "Blue Axolotl",
+				"texture_url": "http://textures.minecraft.net/texture/68fd10b0fef4595960b1f64193bc8a1865a2d2ed48b2e2ce03d994563027df95"
+			},
+			{
+				"type": "cyan_axolotl",
+				"name": "Cyan Axolotl",
+				"texture_url": "http://textures.minecraft.net/texture/851196d43930659d717e1b6a046a08d1220fcb4e31c4856bc33e7551986ef1d"
+			},
+			{
+				"type": "gold_axolotl",
+				"name": "Gold Axolotl",
+				"texture_url": "http://textures.minecraft.net/texture/e58560115faad11619b3d55de79ef2a053f478a67194bbe9247edea0bc98e834"
+			},
+			{
+				"type": "lucy_axolotl",
+				"name": "Lucy Axolotl",
+				"texture_url": "http://textures.minecraft.net/texture/667e15eab73064b6680d1db98ba445ed0914ba35a799997c0da2b03ffc3a8826"
+			},
+			{
+				"type": "wild_axolotl",
+				"name": "Wild Axolotl",
+				"texture_url": "http://textures.minecraft.net/texture/47cf0274998bf5a7f38b37036e154f112fa2e28bad40d5a7c94765fe4f52211e"
+			}
+		]
+	},
+	"bat": {
+		"entity_type": "bat",
+		"variants": [
+			{
+				"type": "bat",
+				"name": "Bat",
+				"texture_url": "http://textures.minecraft.net/texture/fd03b29958ab13ad3f890e28e3bd925fe595a1a99f084fc8fc18fd61836ed5ca"
+			}
+		]
+	},
+	"bee": {
+		"entity_type": "bee",
+		"variants": [
+			{
+				"type": "angry_bee",
+				"name": "Angry Bee",
+				"texture_url": "http://textures.minecraft.net/texture/e400223f1fa54741d421d7e8046409d5f3e15c7f4364b1b739940208f3b686d4"
+			},
+			{
+				"type": "angry_pollinated_bee",
+				"name": "Angry Pollinated Bee",
+				"texture_url": "http://textures.minecraft.net/texture/e6b74e052b74288799ba6d9f35c5d0221cf8b04331547ec2f68d73597ae2c9b"
+			},
+			{
+				"type": "bee",
+				"name": "Bee",
+				"texture_url": "http://textures.minecraft.net/texture/59ac16f296b461d05ea0785d477033e527358b4f30c266aa02f020157ffca736"
+			},
+			{
+				"type": "pollinated_bee",
+				"name": "Pollinated Bee",
+				"texture_url": "http://textures.minecraft.net/texture/b727d0ab03f5cd022f8705d3f7f133ca4920eae8e1e47b5074433a137e691e4e"
+			}
+		]
+	},
+	"blaze": {
+		"entity_type": "blaze",
+		"variants": [
+			{
+				"type": "blaze",
+				"name": "Blaze",
+				"texture_url": "http://textures.minecraft.net/texture/dee23dc7a10c6a87ef937454c0e94ed42c23aa641a91ed8470a3042d05c52c52"
+			}
+		]
+	},
+	"bogged": {
+		"entity_type": "bogged",
+		"variants": [
+			{
+				"type": "bogged",
+				"name": "Bogged",
+				"texture_url": "http://textures.minecraft.net/texture/a3b9003ba2d05562c75119b8a62185c67130e9282f7acbac4bc2824c21eb95d9"
+			},
+			{
+				"type": "bogged_shorn",
+				"name": "Shorn Bogged",
+				"texture_url": "http://textures.minecraft.net/texture/a2931b6c031a92e31ab5c255233662887aba25d31adb78df48c22f0d63dc4d9f"
+			}
+		]
+	},
+	"breeze": {
+		"entity_type": "breeze",
+		"variants": [
+			{
+				"type": "breeze",
+				"name": "Breeze",
+				"texture_url": "http://textures.minecraft.net/texture/cd6e602f76f80c0657b5aed64e267eeea702b31e6dae86346c8506f2535ced02"
+			}
+		]
+	},
+	"camel": {
+		"entity_type": "camel",
+		"variants": [
+			{
+				"type": "camel",
+				"name": "Camel",
+				"texture_url": "http://textures.minecraft.net/texture/74b8a333dfa92e7e5a95ad4ae2d84b1bafa33dc28c054925277f60e79dafc8c4"
+			}
+		]
+	},
+	"cat": {
+		"entity_type": "cat",
+		"variants": [
+			{
+				"type": "black_cat",
+				"name": "Black Cat",
+				"texture_url": "http://textures.minecraft.net/texture/22c1e81ff03e82a3e71e0cd5fbec607e11361089aa47f290d46c8a2c07460d92"
+			},
+			{
+				"type": "british_shorthair_cat",
+				"name": "British Shorthair Cat",
+				"texture_url": "http://textures.minecraft.net/texture/5389e0d5d3e81f84b570e2978244b3a73e5a22bcdb6874b44ef5d0f66ca24eec"
+			},
+			{
+				"type": "calico_cat",
+				"name": "Calico Cat",
+				"texture_url": "http://textures.minecraft.net/texture/340097271bb680fe981e859e8ba93fea28b813b1042bd277ea3329bec493eef3"
+			},
+			{
+				"type": "ginger_cat",
+				"name": "Ginger Cat",
+				"texture_url": "http://textures.minecraft.net/texture/2113dbd3c6a078a17b4edb78ce07d836c38dace5027d4b0a83fd60e7ca7a0fcb"
+			},
+			{
+				"type": "jellie_cat",
+				"name": "Jellie Cat",
+				"texture_url": "http://textures.minecraft.net/texture/a0db41376ca57df10fcb1539e86654eecfd36d3fe75e8176885e93185df280a5"
+			},
+			{
+				"type": "persian_cat",
+				"name": "Persian Cat",
+				"texture_url": "http://textures.minecraft.net/texture/ff40c746260ef91c96b27159795e87191ae7ce3d5f767bf8c74faad9689af25d"
+			},
+			{
+				"type": "ragdoll_cat",
+				"name": "Ragdoll Cat",
+				"texture_url": "http://textures.minecraft.net/texture/dc7a45d25889e3fdf7797cb258e26d4e94f5bc13eef00795dafef2e83e0ab511"
+			},
+			{
+				"type": "siamese_cat",
+				"name": "Siamese Cat",
+				"texture_url": "http://textures.minecraft.net/texture/d5b3f8ca4b3a555ccb3d194449808b4c9d783327197800d4d65974cc685af2ea"
+			},
+			{
+				"type": "tabby_cat",
+				"name": "Tabby Cat",
+				"texture_url": "http://textures.minecraft.net/texture/de28d30db3f8c3fe50ca4f26f3075e36f003ae8028135a8cd692f24c9a98ae1b"
+			},
+			{
+				"type": "tuxedo_cat",
+				"name": "Tuxedo Cat",
+				"texture_url": "http://textures.minecraft.net/texture/4fd10c8e75f67398c47587d25fc146f311c053cc5d0aeab8790bce36ee88f5f8"
+			},
+			{
+				"type": "white_cat",
+				"name": "White Cat",
+				"texture_url": "http://textures.minecraft.net/texture/21d15ac9558e98b89aca89d3819503f1c5256c2197dd3c34df5aac4d72e7fbed"
+			}
+		]
+	},
+	"cave_spider": {
+		"entity_type": "cave_spider",
+		"variants": [
+			{
+				"type": "cave_spider",
+				"name": "Cave Spider",
+				"texture_url": "http://textures.minecraft.net/texture/af843bb7a984e734ab76a88c9a1a0f5a40bf79524809a8511bf32d057526f7f3"
+			}
+		]
+	},
+	"chicken": {
+		"entity_type": "chicken",
+		"variants": [
+			{
+				"type": "chicken",
+				"name": "Chicken",
+				"texture_url": "http://textures.minecraft.net/texture/42af6e5847eea099e1b0ab8c20a9e5f3c7190158bda54e28133d9b271ec0cb4b"
+			}
+		]
+	},
+	"cod": {
+		"entity_type": "cod",
+		"variants": [
+			{
+				"type": "cod",
+				"name": "Cod",
+				"texture_url": "http://textures.minecraft.net/texture/7892d7dd6aadf35f86da27fb63da4edda211df96d2829f691462a4fb1cab0"
+			}
+		]
+	},
+	"cow": {
+		"entity_type": "cow",
+		"variants": [
+			{
+				"type": "cow",
+				"name": "Cow",
+				"texture_url": "http://textures.minecraft.net/texture/63d621100fea5883922e78bb448056448c983e3f97841948a2da747d6b08b8ab"
+			}
+		]
+	},
+	"creeper": {
+		"entity_type": "creeper",
+		"variants": [
+			{
+				"type": "charged_creeper",
+				"name": "Charged Creeper",
+				"texture_url": "http://textures.minecraft.net/texture/3511e4a3d5add6a54499abad10d799d06ce45cba9e520afd2008608a6288b7e7"
+			},
+			{
+				"type": "creeper",
+				"name": "Creeper",
+				"texture_url": "http://textures.minecraft.net/texture/39aafef722f7e9d89ee175acec5fbefbe5c0a2d009ab7e5940c0a206a013dcd"
+			}
+		]
+	},
+	"dolphin": {
+		"entity_type": "dolphin",
+		"variants": [
+			{
+				"type": "dolphin",
+				"name": "Dolphin",
+				"texture_url": "http://textures.minecraft.net/texture/7a10e88be4d0ea13bdad8f112c7eeb5df22f95b9e82501a49a2c9f82fdb79d9d"
+			}
+		]
+	},
+	"donkey": {
+		"entity_type": "donkey",
+		"variants": [
+			{
+				"type": "donkey",
+				"name": "Donkey",
+				"texture_url": "http://textures.minecraft.net/texture/436f059892b1d5363c8a3b6c09ca64fba4fc68c600b03e96e607ab87bebabdc2"
+			}
+		]
+	},
+	"drowned": {
+		"entity_type": "drowned",
+		"variants": [
+			{
+				"type": "drowned",
+				"name": "Drowned",
+				"texture_url": "http://textures.minecraft.net/texture/c3f7ccf61dbc3f9fe9a6333cde0c0e14399eb2eea71d34cf223b3ace22051"
+			}
+		]
+	},
+	"elder_guardian": {
+		"entity_type": "elder_guardian",
+		"variants": [
+			{
+				"type": "elder_guardian",
+				"name": "Elder Guardian",
+				"texture_url": "http://textures.minecraft.net/texture/4a2d64f4a00e9c85f67262edcacb84523581ae0f37bdab22dd704524f62e169f"
+			}
+		]
+	},
+	"enderman": {
+		"entity_type": "enderman",
+		"variants": [
+			{
+				"type": "enderman",
+				"name": "Enderman",
+				"texture_url": "http://textures.minecraft.net/texture/7a59bb0a7a32965b3d90d8eafa899d1835f424509eadd4e6b709ada50b9cf"
+			}
+		]
+	},
+	"endermite": {
+		"entity_type": "endermite",
+		"variants": [
+			{
+				"type": "endermite",
+				"name": "Endermite",
+				"texture_url": "http://textures.minecraft.net/texture/8c6b65c22b4465ba6793b2195cd5084ce83b88dca6e55eb9484540acd7352a50"
+			}
+		]
+	},
+	"ender_dragon": {
+		"entity_type": "ender_dragon",
+		"variants": [
+			{
+				"type": "ender_dragon",
+				"name": "Ender Dragon",
+				"texture_url": "http://textures.minecraft.net/texture/c12cf32b7a3c164ae917771b34db4f335ef428694eb82d07b365d5239c157f80"
+			}
+		]
+	},
+	"evoker": {
+		"entity_type": "evoker",
+		"variants": [
+			{
+				"type": "evoker",
+				"name": "Evoker",
+				"texture_url": "http://textures.minecraft.net/texture/390fbd88f659d3963c68cbbcb7c7121d8195a8be65bbd2bf1257d1f69bccc0c7"
+			}
+		]
+	},
+	"fox": {
+		"entity_type": "fox",
+		"variants": [
+			{
+				"type": "fox",
+				"name": "Fox",
+				"texture_url": "http://textures.minecraft.net/texture/d7e0043111bc57090856259155571c7906e707046df041b8b572704c451fcd82"
+			},
+			{
+				"type": "snowy_fox",
+				"name": "Snowy Fox",
+				"texture_url": "http://textures.minecraft.net/texture/41436377eb4c4b4e39fb0e1ed8899fb61ee1814a9169b8d08729ef01dc85d1ba"
+			}
+		]
+	},
+	"frog": {
+		"entity_type": "frog",
+		"variants": [
+			{
+				"type": "cold_frog",
+				"name": "Cold Frog",
+				"texture_url": "http://textures.minecraft.net/texture/ce62e8a048d040eb0533ba26a866cd9c2d0928c931c50b4482ac3a3261fab6f0"
+			},
+			{
+				"type": "temperate_frog",
+				"name": "Temperate Frog",
+				"texture_url": "http://textures.minecraft.net/texture/23ce6f9998ed2da757d1e6372f04efa20e57dfc17c3a06478657bbdf51c2f2a2"
+			},
+			{
+				"type": "warm_frog",
+				"name": "Warm Frog",
+				"texture_url": "http://textures.minecraft.net/texture/f77314fa038ec31357845a93274b4dc884124686728ffe0ded9c35466aca0aab"
+			}
+		]
+	},
+	"generate": {
+		"entity_type": "generate",
+		"variants": []
+	},
+	"ghast": {
+		"entity_type": "ghast",
+		"variants": [
+			{
+				"type": "ghast",
+				"name": "Ghast",
+				"texture_url": "http://textures.minecraft.net/texture/c53de31a2d0041a6ef75bf7a6c8468464db1aaa6201ebb1a6013edb2245c7607"
+			}
+		]
+	},
+	"glow_squid": {
+		"entity_type": "glow_squid",
+		"variants": [
+			{
+				"type": "glow_squid",
+				"name": "Glow Squid",
+				"texture_url": "http://textures.minecraft.net/texture/4b2e9b6581fed48a99e0323091ad5c3c326cda20073e28a902a0373f7382b59f"
+			}
+		]
+	},
+	"goat": {
+		"entity_type": "goat",
+		"variants": [
+			{
+				"type": "goat",
+				"name": "Goat",
+				"texture_url": "http://textures.minecraft.net/texture/87473e055df6e7fd98664e9fdb63675f088106305d744024a41bb358918a142b"
+			},
+			{
+				"type": "screaming_goat",
+				"name": "Screaming Goat",
+				"texture_url": "http://textures.minecraft.net/texture/bda485ac23512420891a5ae1e8de989f091d848d15a9068da4720d316fc4330f"
+			}
+		]
+	},
+	"guardian": {
+		"entity_type": "guardian",
+		"variants": [
+			{
+				"type": "guardian",
+				"name": "Guardian",
+				"texture_url": "http://textures.minecraft.net/texture/e2ba34416670454b1a20496f80b9398529f49003fc613eb930248ea9b5d1a391"
+			}
+		]
+	},
+	"hoglin": {
+		"entity_type": "hoglin",
+		"variants": [
+			{
+				"type": "hoglin",
+				"name": "Hoglin",
+				"texture_url": "http://textures.minecraft.net/texture/bc4a7f57fc03b13aa2f9d83cdd4822b936793096daf51e78025bbd241ed6f68d"
+			}
+		]
+	},
+	"horse": {
+		"entity_type": "horse",
+		"variants": [
+			{
+				"type": "black_horse",
+				"name": "Black Horse",
+				"texture_url": "http://textures.minecraft.net/texture/6723fa5be6ac2292a72230f5fd7ab663493bd8f7e64816424dc5bf24f133890c"
+			},
+			{
+				"type": "brown_horse",
+				"name": "Brown Horse",
+				"texture_url": "http://textures.minecraft.net/texture/6771800770cb4e814a3d91186fcd795ec82e06102ff7c1ee4e5c380102a0c70f"
+			},
+			{
+				"type": "chestnut_horse",
+				"name": "Chestnut Horse",
+				"texture_url": "http://textures.minecraft.net/texture/6c8720d1f552693b40a9a33afa41cef06afd142833bed9fa5b887e88f05f49fa"
+			},
+			{
+				"type": "creamy_horse",
+				"name": "Creamy Horse",
+				"texture_url": "http://textures.minecraft.net/texture/42a0d54cc071267d6bfd5f523f8c89dcfdc5e805fabbb76010cb3befa465aa94"
+			},
+			{
+				"type": "dark_brown_horse",
+				"name": "Dark Brown Horse",
+				"texture_url": "http://textures.minecraft.net/texture/7f2341aaa0c82c22bbc207063e319291097c539adad9aa913eb8001b11aa59da"
+			},
+			{
+				"type": "gray_horse",
+				"name": "Grey Horse",
+				"texture_url": "http://textures.minecraft.net/texture/c25986102181083fb317bc5712f7104daa5a3e889264dfebb9159f6e08bac90c"
+			},
+			{
+				"type": "white_horse",
+				"name": "White Horse",
+				"texture_url": "http://textures.minecraft.net/texture/c7bc61609730f2cb010268fab0821bd47352699750a150599f21c3fc4e92591a"
+			}
+		]
+	},
+	"husk": {
+		"entity_type": "husk",
+		"variants": [
+			{
+				"type": "husk",
+				"name": "Husk",
+				"texture_url": "http://textures.minecraft.net/texture/7338318bc91a36cd5ab6aa885c9a4ee2bdacdaa5c66b2a99dfb0a560983f2480"
+			}
+		]
+	},
+	"iron_golem": {
+		"entity_type": "iron_golem",
+		"variants": [
+			{
+				"type": "iron_golem",
+				"name": "Iron Golem",
+				"texture_url": "http://textures.minecraft.net/texture/fe7c0719fabe116dce605199bcadc69a538860864ef15706983ff662822d9fe3"
+			}
+		]
+	},
+	"llama": {
+		"entity_type": "llama",
+		"variants": [
+			{
+				"type": "brown_llama",
+				"name": "Brown Llama",
+				"texture_url": "http://textures.minecraft.net/texture/c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368"
+			},
+			{
+				"type": "creamy_llama",
+				"name": "Creamy Llama",
+				"texture_url": "http://textures.minecraft.net/texture/4d67fd4bff293269cb908974dca83c33485e435ed5a8e1dbd6521c61687140"
+			},
+			{
+				"type": "gray_llama",
+				"name": "Grey Llama",
+				"texture_url": "http://textures.minecraft.net/texture/cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a"
+			},
+			{
+				"type": "white_llama",
+				"name": "White Llama",
+				"texture_url": "http://textures.minecraft.net/texture/80277e6b3d9f7819efc7da4b42745f7ab9a63ba8f36d6b84a7a250c6d1a358eb"
+			}
+		]
+	},
+	"magma_cube": {
+		"entity_type": "magma_cube",
+		"variants": [
+			{
+				"type": "magma_cube",
+				"name": "Magma Cube",
+				"texture_url": "http://textures.minecraft.net/texture/b81718d4984847a4ad3ec081a4ebffd183743239aecab60322138a72609812c3"
+			}
+		]
+	},
+	"mooshroom": {
+		"entity_type": "mooshroom",
+		"variants": [
+			{
+				"type": "brown_mooshroom",
+				"name": "Brown Mooshroom",
+				"texture_url": "http://textures.minecraft.net/texture/7e6466302a5ab4398b4e477349808e5d9402ea3ad8fc42e2446e4bed0a5ed5e"
+			},
+			{
+				"type": "red_mooshroom",
+				"name": "Red Mooshroom",
+				"texture_url": "http://textures.minecraft.net/texture/da80606e82c642f141587733e3180ae57f646442c9fffd4e5997457e34311a29"
+			}
+		]
+	},
+	"mule": {
+		"entity_type": "mule",
+		"variants": [
+			{
+				"type": "mule",
+				"name": "Mule",
+				"texture_url": "http://textures.minecraft.net/texture/785ce20442d2cf44771244f60f137b67fd9502f87e16ce98e6d6dce43145d76a"
+			}
+		]
+	},
+	"ocelot": {
+		"entity_type": "ocelot",
+		"variants": [
+			{
+				"type": "ocelot",
+				"name": "Ocelot",
+				"texture_url": "http://textures.minecraft.net/texture/9175cc43ea8ae20168a1f170810b4da4d9b4ebd3c9976e9fc22e9f995c3cbc3c"
+			}
+		]
+	},
+	"panda": {
+		"entity_type": "panda",
+		"variants": [
+			{
+				"type": "aggressive_panda",
+				"name": "Aggressive Panda",
+				"texture_url": "http://textures.minecraft.net/texture/e546e436d166b17f0521bd8538ea13cd6ee3b5df102eb32e3e425cb285d44063"
+			},
+			{
+				"type": "brown_panda",
+				"name": "Brown Panda",
+				"texture_url": "http://textures.minecraft.net/texture/1d5f6d6126728671b44c1c775f99617424e33611b5d31ad2acff2804eb96eb06"
+			},
+			{
+				"type": "lazy_panda",
+				"name": "Lazy Panda",
+				"texture_url": "http://textures.minecraft.net/texture/587f1f5db2e24df4daaed4685d6aee5deb7cdd029630f0079c1f8e1f9741acfd"
+			},
+			{
+				"type": "panda",
+				"name": "Panda",
+				"texture_url": "http://textures.minecraft.net/texture/59df47e015d5c1c68d72be11bb656380fc6db533aab38941a91b1d3d5e396497"
+			},
+			{
+				"type": "playful_panda",
+				"name": "Playful Panda",
+				"texture_url": "http://textures.minecraft.net/texture/8cadd4bf3c4cace916680e1fef90b5d16ad6643951725668ba6b4996b69ca140"
+			},
+			{
+				"type": "weak_panda",
+				"name": "Weak Panda",
+				"texture_url": "http://textures.minecraft.net/texture/cc56a355fbe0e2fbd28e85c4d815ffa5d1f9d5f8798dbc259ff88c4addb202ae"
+			},
+			{
+				"type": "worried_panda",
+				"name": "Worried Panda",
+				"texture_url": "http://textures.minecraft.net/texture/fb86fd1bf8cbce23bc08fb90691717611addc85ab823b7714aec98a5660eff15"
+			}
+		]
+	},
+	"parrot": {
+		"entity_type": "parrot",
+		"variants": [
+			{
+				"type": "blue_parrot",
+				"name": "Blue Parrot",
+				"texture_url": "http://textures.minecraft.net/texture/b94bd3fcf4d46354ede8fef73126dbcab52b301a1c8c23b6cdfc12d612b61bea"
+			},
+			{
+				"type": "gray_parrot",
+				"name": "Grey Parrot",
+				"texture_url": "http://textures.minecraft.net/texture/71be723aa17393d99daddc119c98b2c79c54b35debe05c7138edeb8d0256dc46"
+			},
+			{
+				"type": "green_parrot",
+				"name": "Green Parrot",
+				"texture_url": "http://textures.minecraft.net/texture/6a1dc33115232f800825cac9e3d9ed03fc18ae553c25b8059513000c59e354fe"
+			},
+			{
+				"type": "light_blue_parrot",
+				"name": "Light Blue Parrot",
+				"texture_url": "http://textures.minecraft.net/texture/7268ce37be8507ed67e3d40b617e2d72f66f9d20b106efb08e6ba041f9b9ef10"
+			},
+			{
+				"type": "red_parrot",
+				"name": "Red Parrot",
+				"texture_url": "http://textures.minecraft.net/texture/40a3d47f54e71a58bf8f57c5253fb2d213f4f55bb7934a19104bfb94edc76eaa"
+			}
+		]
+	},
+	"phantom": {
+		"entity_type": "phantom",
+		"variants": [
+			{
+				"type": "phantom",
+				"name": "Phantom",
+				"texture_url": "http://textures.minecraft.net/texture/7e95153ec23284b283f00d19d29756f244313a061b70ac03b97d236ee57bd982"
+			}
+		]
+	},
+	"pig": {
+		"entity_type": "pig",
+		"variants": [
+			{
+				"type": "pig",
+				"name": "Pig",
+				"texture_url": "http://textures.minecraft.net/texture/41ee7681adf00067f04bf42611c97641075a44ae2b1c0381d5ac6b3246211bfe"
+			}
+		]
+	},
+	"piglin": {
+		"entity_type": "piglin",
+		"variants": [
+			{
+				"type": "piglin",
+				"name": "Piglin",
+				"texture_url": "http://textures.minecraft.net/texture/81afd85391182a9f9de4fce29eaf02514cc2e04481577da5edeb58b17e757135"
+			}
+		]
+	},
+	"piglin_brute": {
+		"entity_type": "piglin_brute",
+		"variants": [
+			{
+				"type": "piglin_brute",
+				"name": "Piglin Brute",
+				"texture_url": "http://textures.minecraft.net/texture/6488799c83ecb29452ceba89c3c0099219274ce5b2bfb8ad0b3ea4c65fac4630"
+			}
+		]
+	},
+	"pillager": {
+		"entity_type": "pillager",
+		"variants": [
+			{
+				"type": "pillager",
+				"name": "Pillager",
+				"texture_url": "http://textures.minecraft.net/texture/c225f0b49c5295048a409c9c601cca79aa8eb52aff5e2033ebb865f4367ef43e"
+			}
+		]
+	},
+	"polar_bear": {
+		"entity_type": "polar_bear",
+		"variants": [
+			{
+				"type": "polar_bear",
+				"name": "Polar Bear",
+				"texture_url": "http://textures.minecraft.net/texture/cd8702911e616c0d32fbe778d195f21ecce9025bcbd09151e3d97af3192aa7ec"
+			}
+		]
+	},
+	"pufferfish": {
+		"entity_type": "pufferfish",
+		"variants": [
+			{
+				"type": "pufferfish",
+				"name": "Pufferfish",
+				"texture_url": "http://textures.minecraft.net/texture/990852686f0318f2e37e4e2aa37402a8079d530f6bd15375b10c858047e7a20f"
+			}
+		]
+	},
+	"rabbit": {
+		"entity_type": "rabbit",
+		"variants": [
+			{
+				"type": "black_and_white_rabbit",
+				"name": "White Splotched Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/35f72a2195ebf4117c5056cfe2b7357ec5bf832ede1856a7773ee42a0d0fb3f0"
+			},
+			{
+				"type": "black_rabbit",
+				"name": "Black Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/b2b425ff2a236ab19cc9397195db40f8f185b191c40bf44b26e95eac9fb5efa3"
+			},
+			{
+				"type": "brown_rabbit",
+				"name": "Brown Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/cfd4f86cf7473fbae93b1e090489b64c0be126c7bb16ffc88c002447d5c72795"
+			},
+			{
+				"type": "gold_rabbit",
+				"name": "Gold Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/767b722656fdeec39974d3395c5e18b47c5e237bce5bbced9b7553aa14b54587"
+			},
+			{
+				"type": "salt_and_pepper_rabbit",
+				"name": "Salt and Pepper Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/9238519ff39815b16c4062823e43161ffaac96894fe088b018e6a24c26e181ec"
+			},
+			{
+				"type": "toast_rabbit",
+				"name": "Toast Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/51a57c3d0a9b10e13f66df74200cb8a6d484c672226812d74e25f6c027410616"
+			},
+			{
+				"type": "white_rabbit",
+				"name": "White Rabbit",
+				"texture_url": "http://textures.minecraft.net/texture/9542d7160987148a5d8e20e469bd9b3c2a3946c7fb5923f55b9beae99185f"
+			}
+		]
+	},
+	"ravager": {
+		"entity_type": "ravager",
+		"variants": [
+			{
+				"type": "ravager",
+				"name": "Ravager",
+				"texture_url": "http://textures.minecraft.net/texture/eb4db2986140e251e32e70ed08c8a081720313ce257632be1ef94a0737394db"
+			}
+		]
+	},
+	"salmon": {
+		"entity_type": "salmon",
+		"variants": [
+			{
+				"type": "salmon",
+				"name": "Salmon",
+				"texture_url": "http://textures.minecraft.net/texture/8aeb21a25e46806ce8537fbd6668281cf176ceafe95af90e94a5fd84924878"
+			}
+		]
+	},
+	"sheep": {
+		"entity_type": "sheep",
+		"variants": [
+			{
+				"type": "black_sheep",
+				"name": "Black Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/13335e8065c7b5dfea58d3df7474f396af4fa0a2ba52a3c9b7fba68319271c91"
+			},
+			{
+				"type": "blue_sheep",
+				"name": "Blue Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/740e277da6c398b749a32f9d080f1cf4c4ef3f1f20dd9e5f422509e7ff593c0"
+			},
+			{
+				"type": "brown_sheep",
+				"name": "Brown Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/3128d086bc81669fc2255bb22cadc66a0f5ed70885e84c32d37c1b484db35901"
+			},
+			{
+				"type": "cyan_sheep",
+				"name": "Cyan Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/5d42fcbcaf9d48f73ffb0c3c36f34b4643295f6daa6cc74ab9d242ed5aa5636"
+			},
+			{
+				"type": "green_sheep",
+				"name": "Green Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/9ea887eae4b07636e9e2f906609b00ab8d9b86b74728b819ff6f376583ea139"
+			},
+			{
+				"type": "grey_sheep",
+				"name": "Grey Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/3fafecf0603b2dcd7984d252586069895db9aa78e1841bd554b19508dcf967a1"
+			},
+			{
+				"type": "jeb_sheep",
+				"name": "Jeb Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/b6fd3c620c4da4ed3b34d5e2ec02866be152cca156e50ba8e0917ed515cc2e75"
+			},
+			{
+				"type": "light_blue_sheep",
+				"name": "Light Blue Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/ebf23af8719c437b3ee84019ba3c9e69ca854d3a8afd5cba6d9696c053b48614"
+			},
+			{
+				"type": "light_grey_sheep",
+				"name": "Light Grey Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/1d2e2e93a142bfd43f240d37de8f9b0976e76e65b22651908259e46db770e"
+			},
+			{
+				"type": "lime_sheep",
+				"name": "Lime Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/6bead0342ae89b8dfd3d711a60add65e2c2bfea8d0bd274a7587deed7a31892e"
+			},
+			{
+				"type": "magenta_sheep",
+				"name": "Magenta Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/a8e1f05f0dacca63a731874f90a693ffe21ff832e2b1e1d07b65c8764526f089"
+			},
+			{
+				"type": "orange_sheep",
+				"name": "Orange Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/f684d04fa80aa59da14535dead3883d097fbba400625659f5259964806ba66f0"
+			},
+			{
+				"type": "pink_sheep",
+				"name": "Pink Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/6363e8a93d287a84e640309ae83ca1de0a0b257505a20ec55b3349d40a44854"
+			},
+			{
+				"type": "purple_sheep",
+				"name": "Purple Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/3449d08291dae45a24673619602f435b57f4cd4e9e98d2e0fbec4f18144781d3"
+			},
+			{
+				"type": "red_sheep",
+				"name": "Red Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/5478e057158de6f45e2541cd17788e640ccb59723de59c254e82ab5711f3fc27"
+			},
+			{
+				"type": "white_sheep",
+				"name": "White Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/6dfe7cc46d749b153261c1dc11abbf2a3108ea1ba0b2650280eed1592dcfc75b"
+			},
+			{
+				"type": "yellow_sheep",
+				"name": "Yellow Sheep",
+				"texture_url": "http://textures.minecraft.net/texture/94b28f035735906f82ffc4dba99c9f0b55240e426cd1c525a9aa77180eec4934"
+			}
+		]
+	},
+	"shulker": {
+		"entity_type": "shulker",
+		"variants": [
+			{
+				"type": "shulker",
+				"name": "Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/56c59b579f23fae7695b3beac880985f4f2363a69dbcb3ac19b0c98f18e832cc"
+			}
+		]
+	},
+	"silverfish": {
+		"entity_type": "silverfish",
+		"variants": [
+			{
+				"type": "silverfish",
+				"name": "Silverfish",
+				"texture_url": "http://textures.minecraft.net/texture/f25e9fae371664de1a800c84d025124abb8f15111807c8bc1ab9126aacbd4f95"
+			}
+		]
+	},
+	"skeleton": {
+		"entity_type": "skeleton",
+		"variants": [
+			{
+				"type": "skeleton",
+				"name": "Skeleton",
+				"texture_url": "http://textures.minecraft.net/texture/a5cb09145f99d0f4814ea7f9f7472d9d7c616501216ddd123dab0ada845f2b9"
+			}
+		]
+	},
+	"skeleton_horse": {
+		"entity_type": "skeleton_horse",
+		"variants": [
+			{
+				"type": "skeleton_horse",
+				"name": "Skeleton Horse",
+				"texture_url": "http://textures.minecraft.net/texture/6e226705bd2a9e7bb8d6b0f4daa969b9e12d4ae5c66da693bb5f4a4a1e6aa296"
+			}
+		]
+	},
+	"slime": {
+		"entity_type": "slime",
+		"variants": [
+			{
+				"type": "slime",
+				"name": "Slime",
+				"texture_url": "http://textures.minecraft.net/texture/c06424ec7a196b15f9ad5733a36a6d1f2e6a0d42ffce1e1508f90f312ac4caed"
+			}
+		]
+	},
+	"sniffer": {
+		"entity_type": "sniffer",
+		"variants": [
+			{
+				"type": "sniffer",
+				"name": "Sniffer",
+				"texture_url": "http://textures.minecraft.net/texture/2553fe9867a46dbb0953aff93da8c68437766ea98b19c429f1d76535fa020332"
+			}
+		]
+	},
+	"snow_golem": {
+		"entity_type": "snow_golem",
+		"variants": [
+			{
+				"type": "snow_golem",
+				"name": "Shorn Snow Golem",
+				"texture_url": "http://textures.minecraft.net/texture/caa3e17ef1b29a4b87fa43dee1db12c41fd39aa387fa13af2a079b5b378fde8b"
+			},
+			{
+				"type": "snow_golem_pumpkin",
+				"name": "Snow Golem",
+				"texture_url": "http://textures.minecraft.net/texture/d6dd83790a4d4c01b9df17ac2378fa26ad120f6d48b666cb6c061152bd7644d8"
+			}
+		]
+	},
+	"spider": {
+		"entity_type": "spider",
+		"variants": [
+			{
+				"type": "spider",
+				"name": "Spider",
+				"texture_url": "http://textures.minecraft.net/texture/50c410045cd3749c3a8ed856df411f6c33e9a8a6f9e57e521608a8ad8ed6eb37"
+			}
+		]
+	},
+	"squid": {
+		"entity_type": "squid",
+		"variants": [
+			{
+				"type": "squid",
+				"name": "Squid",
+				"texture_url": "http://textures.minecraft.net/texture/8351b7d9a4f36cfe31fd59d8c900e419a135144105e7a981caa5a168dcff325b"
+			}
+		]
+	},
+	"stray": {
+		"entity_type": "stray",
+		"variants": [
+			{
+				"type": "stray",
+				"name": "Stray",
+				"texture_url": "http://textures.minecraft.net/texture/592b5597085e35db53d9bda008cae72b2f00cd7d4cd8dc69ff174a55b689e6e"
+			}
+		]
+	},
+	"strider": {
+		"entity_type": "strider",
+		"variants": [
+			{
+				"type": "cold_strider",
+				"name": "Cold Strider",
+				"texture_url": "http://textures.minecraft.net/texture/2713085a57527e45459c38faa7bb91cabb381df31cf2bf79d67a07156b6c2309"
+			},
+			{
+				"type": "strider",
+				"name": "Strider",
+				"texture_url": "http://textures.minecraft.net/texture/9c40fad1c11de9e6422b405426e9b97907f35bce345e3758604d3e7be7df884"
+			}
+		]
+	},
+	"tadpole": {
+		"entity_type": "tadpole",
+		"variants": [
+			{
+				"type": "tadpole",
+				"name": "Tadpole",
+				"texture_url": "http://textures.minecraft.net/texture/987035f5352334c2cba6ac4c65c2b9059739d6d0e839c1dd98d75d2e77957847"
+			}
+		]
+	},
+	"trader_llama": {
+		"entity_type": "trader_llama",
+		"variants": [
+			{
+				"type": "brown_trader_llama",
+				"name": "Brown Trader Llama",
+				"texture_url": "http://textures.minecraft.net/texture/8424780b3c5c5351cf49fb5bf41fcb289491df6c430683c84d7846188db4f84d"
+			},
+			{
+				"type": "creamy_trader_llama",
+				"name": "Creamy Trader Llama",
+				"texture_url": "http://textures.minecraft.net/texture/e89a2eb17705fe7154ab041e5c76a08d41546a31ba20ea3060e3ec8edc10412c"
+			},
+			{
+				"type": "gray_trader_llama",
+				"name": "Grey Trader Llama",
+				"texture_url": "http://textures.minecraft.net/texture/be4d8a0bc15f239921efd8be3480ba77a98ee7d9ce00728c0d733f0a2d614d16"
+			},
+			{
+				"type": "white_trader_llama",
+				"name": "White Trader Llama",
+				"texture_url": "http://textures.minecraft.net/texture/7087a556d4ffa95ecd2844f350dc43e254e5d535fa596f540d7e77fa67df4696"
+			}
+		]
+	},
+	"tropical_fish": {
+		"entity_type": "tropical_fish",
+		"variants": [
+			{
+				"type": "tropical_fish",
+				"name": "Tropical Fish",
+				"texture_url": "http://textures.minecraft.net/texture/7b3968cbb6e99043e9d3468e33c488c2eb8d735a29e2c6b119841af2de927dff"
+			}
+		]
+	},
+	"turtle": {
+		"entity_type": "turtle",
+		"variants": [
+			{
+				"type": "turtle",
+				"name": "Turtle",
+				"texture_url": "http://textures.minecraft.net/texture/304931200ad460b650a190e8d41227c3999fbeb933b51ca49fd9e5920d1f8e7d"
+			}
+		]
+	},
+	"vex": {
+		"entity_type": "vex",
+		"variants": [
+			{
+				"type": "charging_vex",
+				"name": "Charging Vex",
+				"texture_url": "http://textures.minecraft.net/texture/95c080cc03dddacedb664287c7982b98ab7e1eebebb205b2f22b784ca4bb6515"
+			},
+			{
+				"type": "vex",
+				"name": "Vex",
+				"texture_url": "http://textures.minecraft.net/texture/b663134d7306bb604175d2575d686714b04412fe501143611fcf3cc19bd70abe"
+			}
+		]
+	},
+	"villager": {
+		"entity_type": "villager",
+		"variants": [
+			{
+				"type": "armourer_villager",
+				"name": "Armourer Villager",
+				"texture_url": "http://textures.minecraft.net/texture/1ef627f566ac0a7828bad93e9e4b9643d99a928a13d5f977bf441e40db1336bf"
+			},
+			{
+				"type": "butcher_villager",
+				"name": "Butcher Villager",
+				"texture_url": "http://textures.minecraft.net/texture/a1bad64185e04bf1dafe3da84933d02545ea4a63221a10d0f07759179112bdc2"
+			},
+			{
+				"type": "cartographer_villager",
+				"name": "Cartographer Villager",
+				"texture_url": "http://textures.minecraft.net/texture/e3aecfbe801cf32b5d1b0b1f6680049666158678c53f4a651fc83e0df9d3738b"
+			},
+			{
+				"type": "cleric_villager",
+				"name": "Cleric Villager",
+				"texture_url": "http://textures.minecraft.net/texture/5b9e582e2f9b89d556e79c4697f706b1dd4929ecae3c07ee90bf1d5be319bf6f"
+			},
+			{
+				"type": "farmer_villager",
+				"name": "Farmer Villager",
+				"texture_url": "http://textures.minecraft.net/texture/d9272d03cda6290e4d925a7e850a745e711fe5760f6f06f93d92b8f8c739db07"
+			},
+			{
+				"type": "fisherman_villager",
+				"name": "Fisherman Villager",
+				"texture_url": "http://textures.minecraft.net/texture/d189fb4acd15d73ff2a58a88df0466ad9f4c154a2008e5c6265d5c2f07d39376"
+			},
+			{
+				"type": "fletcher_villager",
+				"name": "Fletcher Villager",
+				"texture_url": "http://textures.minecraft.net/texture/bf611f12e18ce44a57238eef1cae03cd9f730a7a45e0ec248f14ce84e9c48056"
+			},
+			{
+				"type": "leatherworker_villager",
+				"name": "Leatherworker Villager",
+				"texture_url": "http://textures.minecraft.net/texture/ae0e9591e11aaef4c2c51d9ac69514e340485defcc2c12c38cd12386c2ec6b78"
+			},
+			{
+				"type": "librarian_villager",
+				"name": "Librarian Villager",
+				"texture_url": "http://textures.minecraft.net/texture/cdcaa574babb40ee0fa83f2fd5ea20cff31ffa272fe113588ceee469682128e7"
+			},
+			{
+				"type": "mason_villager",
+				"name": "Mason Villager",
+				"texture_url": "http://textures.minecraft.net/texture/ae0e9591e11aaef4c2c51d9ac69514e340485defcc2c12c38cd12386c2ec6b78"
+			},
+			{
+				"type": "nitwit_villager",
+				"name": "Nitwit Villager",
+				"texture_url": "http://textures.minecraft.net/texture/ae0e9591e11aaef4c2c51d9ac69514e340485defcc2c12c38cd12386c2ec6b78"
+			},
+			{
+				"type": "shepherd_villager",
+				"name": "Shepherd Villager",
+				"texture_url": "http://textures.minecraft.net/texture/2abf4e9154ac9271941c733eacc62dc9fc0a6dc1b5d67c78ca98afb5cb1be9b2"
+			},
+			{
+				"type": "toolsmith_villager",
+				"name": "Toolsmith Villager",
+				"texture_url": "http://textures.minecraft.net/texture/ae0e9591e11aaef4c2c51d9ac69514e340485defcc2c12c38cd12386c2ec6b78"
+			},
+			{
+				"type": "unemployed_villager",
+				"name": "Unemployed Villager",
+				"texture_url": "http://textures.minecraft.net/texture/ae0e9591e11aaef4c2c51d9ac69514e340485defcc2c12c38cd12386c2ec6b78"
+			},
+			{
+				"type": "weaponsmith_villager",
+				"name": "Weaponsmith Villager",
+				"texture_url": "http://textures.minecraft.net/texture/8476ffa410bbe7fa70909965a125f4a4e9a4fb1ce1b8b3c34bfb73aaffd4ce43"
+			}
+		]
+	},
+	"vindicator": {
+		"entity_type": "vindicator",
+		"variants": [
+			{
+				"type": "vindicator",
+				"name": "Vindicator",
+				"texture_url": "http://textures.minecraft.net/texture/2dabafde27ee12b09865047aff6f183fdb64e04dae1c00ccbde04ad93dcc6c95"
+			}
+		]
+	},
+	"wandering_trader": {
+		"entity_type": "wandering_trader",
+		"variants": [
+			{
+				"type": "wandering_trader",
+				"name": "Wandering Trader",
+				"texture_url": "http://textures.minecraft.net/texture/5f1379a82290d7abe1efaabbc70710ff2ec02dd34ade386bc00c930c461cf932"
+			}
+		]
+	},
+	"warden": {
+		"entity_type": "warden",
+		"variants": [
+			{
+				"type": "warden",
+				"name": "Warden",
+				"texture_url": "http://textures.minecraft.net/texture/6cf3674b2ddc0ef7c39e3b9c6b58677de5cf377d2eb073f2f3fe50919b1ca4c9"
+			}
+		]
+	},
+	"witch": {
+		"entity_type": "witch",
+		"variants": [
+			{
+				"type": "witch",
+				"name": "Witch",
+				"texture_url": "http://textures.minecraft.net/texture/a520f12c63c7912186c4be4e30c33c5acaec0db0b6abd836d517d74a62275d4b"
+			}
+		]
+	},
+	"wither": {
+		"entity_type": "wither",
+		"variants": [
+			{
+				"type": "armoured_invulnerable_wither",
+				"name": "Armoured Invulnerable Wither",
+				"texture_url": "http://textures.minecraft.net/texture/d3682b06203b9de4c28541071a26cdc340dd25d4c372b7023ec2f412021d62f7"
+			},
+			{
+				"type": "armoured_wither",
+				"name": "Armoured Wither",
+				"texture_url": "http://textures.minecraft.net/texture/b37c5814a92f8ec0f6ae9933abe9542e165190768e760478543aebeed4027c27"
+			},
+			{
+				"type": "invulnerable_wither",
+				"name": "Invulnerable Wither",
+				"texture_url": "http://textures.minecraft.net/texture/3196eb8d599c4fef53a97176b72ff8fc41e32a66a159fd45190a0da154587e12"
+			},
+			{
+				"type": "wither",
+				"name": "Wither",
+				"texture_url": "http://textures.minecraft.net/texture/eda10828f63b7ecdefd767b3245fbdaa13c3ec0c6b13774f1ee8d307c034c383"
+			}
+		]
+	},
+	"wither_skeleton": {
+		"entity_type": "wither_skeleton",
+		"variants": [
+			{
+				"type": "wither_skeleton",
+				"name": "Wither Skeleton",
+				"texture_url": "http://textures.minecraft.net/texture/e6413365722094753be2a96a08c1e97b3311b0d795eee14dba25d9696f75c958"
+			}
+		]
+	},
+	"wolf": {
+		"entity_type": "wolf",
+		"variants": [
+			{
+				"type": "ashen_wolf",
+				"name": "Ashen Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/470608d436f5aa213047b54a443a091dd2d71cbcf6e73338b2352ce11251dff1"
+			},
+			{
+				"type": "ashen_wolf_angry",
+				"name": "Angry Ashen Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/2e3203025a86e8158df33244462bf935be005e06a112e3eacaeeaf7687b248e2"
+			},
+			{
+				"type": "black_wolf",
+				"name": "Black Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/f6976503340eb030ab77f300a2efa12f2179df2ca9ca0d292d983c50ed933309"
+			},
+			{
+				"type": "black_wolf_angry",
+				"name": "Angry Black Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/b94c86d13a28e751ac115a9213df03f4637a4a6ecc46110cdc51f94ab1b15957"
+			},
+			{
+				"type": "chestnut_wolf",
+				"name": "Chestnut Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/762ad8c70badb7874a635920b2f934f5151eff743b8e51e8ba7baf3a3f31a256"
+			},
+			{
+				"type": "chestnut_wolf_angry",
+				"name": "Angry Chestnut Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/e9a727d7c26e65710f89bf25efba94e132912a89fc64efb6182041bd8d1749ae"
+			},
+			{
+				"type": "pale_wolf",
+				"name": "Pale Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/72ce161e3205d89e7e4d3ec04d25abfea6231a2277a2bd76f4693f4ce6189a2d"
+			},
+			{
+				"type": "pale_wolf_angry",
+				"name": "Angry Pale Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/34bd1afebc1b631c899bb2751a212c3da8cfa967f2363e54d0ed53c8c4b439e9"
+			},
+			{
+				"type": "rusty_wolf",
+				"name": "Rusty Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/ee03c8f1df96a7a30e118c35e9d7174f1d9a6495d4d88693ad0eeee3e73423c0"
+			},
+			{
+				"type": "rusty_wolf_angry",
+				"name": "Angry Rusty Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/bc36b00ff3e5d7b40b7ff34e6e64fdefee66d3e11594e594ac7769f809a172a3"
+			},
+			{
+				"type": "snowy_wolf",
+				"name": "Snowy Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/50b8e8a15dff16be494c687f13793ee35ac992a2cacff25f327bd240416851f2"
+			},
+			{
+				"type": "snowy_wolf_angry",
+				"name": "Angry Snowy Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/726ec82e81eb6622e04347e62495d7c0f057a5a5eba530ab468f4e2ff84347c9"
+			},
+			{
+				"type": "spotted_wolf",
+				"name": "Spotted Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/bbd23b4ceac1258132bcb7be63dee7cb0ce269a48640e72d4f9c2d4af74af670"
+			},
+			{
+				"type": "spotted_wolf_angry",
+				"name": "Angry Spotted Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/e015f68b0c27028d8fc746d9cc2c34b85834721ed8696fa852524ce34a8ce2fa"
+			},
+			{
+				"type": "striped_wolf",
+				"name": "Striped Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/b3f2de525328e0a7162b40fba2a5bc6aa4deebbdd6996114691ce1d7ef537ccf"
+			},
+			{
+				"type": "striped_wolf_angry",
+				"name": "Angry Striped Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/a432d23599d5820314eaf04e6ecd85b43124fe4933add8970e204da8ccb513b6"
+			},
+			{
+				"type": "woods_wolf",
+				"name": "Woods Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/6f2908155700d377a678362efbd680160316cc2bc1ffd35849cc9d96637abb65"
+			},
+			{
+				"type": "woods_wolf_angry",
+				"name": "Angry Woods Wolf",
+				"texture_url": "http://textures.minecraft.net/texture/eae1ad74bb082d5896e79eb29759a6f9f9f7d30738401b5e8f77310366e3f294"
+			}
+		]
+	},
+	"zoglin": {
+		"entity_type": "zoglin",
+		"variants": [
+			{
+				"type": "zoglin",
+				"name": "Zoglin",
+				"texture_url": "http://textures.minecraft.net/texture/d548d375f2b8b550f39ef9deb08c808e472d4370dfdd151090bc0734df77122e"
+			}
+		]
+	},
+	"zombie": {
+		"entity_type": "zombie",
+		"variants": [
+			{
+				"type": "zombie",
+				"name": "Zombie",
+				"texture_url": "http://textures.minecraft.net/texture/e7f331a4ea968b25f0b6fc4320d1c0006bf0c89282bd2f84d2f56c4c237f0cfa"
+			}
+		]
+	},
+	"zombie_horse": {
+		"entity_type": "zombie_horse",
+		"variants": [
+			{
+				"type": "zombie_horse",
+				"name": "Zombie Horse",
+				"texture_url": "http://textures.minecraft.net/texture/6618ffbe1cfa2058fe80a065f70c128c225a1e0bc9deaf8b38b0395443f40909"
+			}
+		]
+	},
+	"zombie_villager": {
+		"entity_type": "zombie_villager",
+		"variants": [
+			{
+				"type": "armourer_zombie_villager",
+				"name": "Zombie Armourer",
+				"texture_url": "http://textures.minecraft.net/texture/c8679e034767d518660d9416dc5eaf319d697682ac40c886e3c2bc8dfa1de1d"
+			},
+			{
+				"type": "butcher_zombie_villager",
+				"name": "Zombie Butcher",
+				"texture_url": "http://textures.minecraft.net/texture/9cce8d6ce4124cec3e84a852e70f50293f244ddc9ee8578f7d6d8929e16bad69"
+			},
+			{
+				"type": "cartographer_zombie_villager",
+				"name": "Zombie Cartographer",
+				"texture_url": "http://textures.minecraft.net/texture/e60800b01012e963e7c20c8ba14b70a0264d146a850deffbca7bfe512f4cb23d"
+			},
+			{
+				"type": "cleric_zombie_villager",
+				"name": "Zombie Cleric",
+				"texture_url": "http://textures.minecraft.net/texture/2958578be0e12172734a78242dab14964abc85ab9b596361f7c5daf8f14a0feb"
+			},
+			{
+				"type": "farmer_zombie_villager",
+				"name": "Zombie Farmer",
+				"texture_url": "http://textures.minecraft.net/texture/f77d415f9baa4fa4b5e058f5b81bf7f003b0a2c90a4831e53a7dbc09841c5511"
+			},
+			{
+				"type": "fisherman_zombie_villager",
+				"name": "Zombie Fisherman",
+				"texture_url": "http://textures.minecraft.net/texture/6905d53fe4faeb0b315a6878c9ab81b4be52c31cd478c027f0d7ece9f6da8914"
+			},
+			{
+				"type": "fletcher_zombie_villager",
+				"name": "Zombie Fletcher",
+				"texture_url": "http://textures.minecraft.net/texture/2ea26ac0e25498adada4ecea58bb4e76da32d5ca2de307efe5e4218fb7c5ef89"
+			},
+			{
+				"type": "leatherworker_zombie_villager",
+				"name": "Zombie Leatherworker",
+				"texture_url": "http://textures.minecraft.net/texture/fb552c90f212e855d12255d5cd62ed38b9cd7e30e73f0ea779d1764330e69264"
+			},
+			{
+				"type": "librarian_zombie_villager",
+				"name": "Zombie Librarian",
+				"texture_url": "http://textures.minecraft.net/texture/62211a1f409cca4249c70d20ca80399fa4844ea417458be988cc21eb4797375e"
+			},
+			{
+				"type": "mason_zombie_villager",
+				"name": "Zombie Mason",
+				"texture_url": "http://textures.minecraft.net/texture/fb552c90f212e855d12255d5cd62ed38b9cd7e30e73f0ea779d1764330e69264"
+			},
+			{
+				"type": "nitwit_zombie_villager",
+				"name": "Zombie Nitwit",
+				"texture_url": "http://textures.minecraft.net/texture/fb552c90f212e855d12255d5cd62ed38b9cd7e30e73f0ea779d1764330e69264"
+			},
+			{
+				"type": "shepherd_zombie_villager",
+				"name": "Zombie Shepherd",
+				"texture_url": "http://textures.minecraft.net/texture/691391bef3a46ef267d3b7171086ba4c8d17f2a6b0f83fa2ac30efe914b7c249"
+			},
+			{
+				"type": "toolsmith_zombie_villager",
+				"name": "Zombie Toolsmith",
+				"texture_url": "http://textures.minecraft.net/texture/fb552c90f212e855d12255d5cd62ed38b9cd7e30e73f0ea779d1764330e69264"
+			},
+			{
+				"type": "unemployed_zombie_villager",
+				"name": "Zombie Villager",
+				"texture_url": "http://textures.minecraft.net/texture/fb552c90f212e855d12255d5cd62ed38b9cd7e30e73f0ea779d1764330e69264"
+			},
+			{
+				"type": "weaponsmith_zombie_villager",
+				"name": "Zombie Weaponsmith",
+				"texture_url": "http://textures.minecraft.net/texture/4370894b5cc305d87aa08c3b4b08587db68ff29e7a3ef354cad6abca50e5528b"
+			}
+		]
+	},
+	"zombified_piglin": {
+		"entity_type": "zombified_piglin",
+		"variants": [
+			{
+				"type": "zombified_piglin",
+				"name": "Zombified Piglin",
+				"texture_url": "http://textures.minecraft.net/texture/2974a31409e9ecd9a30d2a858603898f708f172d9b9d7e2dedb0013b6b69f773"
+			}
+		]
+	}
+}
