@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": [
+	"pack": {
+		"description": [
 			"Pandamium: Mob Heads Preview\n",
 			{
 				"text": "/function ",
@@ -11,10 +11,10 @@
 				"color":"aqua"
 			}
 		],
-        "pack_format": 16,
+		"pack_format": 41,
 		"supported_formats": {
-			"min_inclusive": 16,
-			"max_inclusive": 32
+			"min_inclusive": 41,
+			"max_inclusive": 41
 		}
-    }
+	}
 }
