@@ -198,6 +198,25 @@ Zombie Villager
 Zombie Weaponsmith
 Zombified Piglin
 
-# Other Heads (2):
+# Other Heads (21):
+Creaking
 Ender Dragon
+Illusioner
+Flying Eyeball
+Black Shulker
+Blue Shulker
+Brown Shulker
+Cyan Shulker
+Grey Shulker
+Green Shulker
+Light Blue Shulker
+Light Grey Shulker
+Lime Shulker
+Magenta Shulker
+Orange Shulker
+Pink Shulker
+Purple Shulker
+Red Shulker
+White Shulker
+Yellow Shulker
 Zombie Horse

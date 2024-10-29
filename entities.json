@@ -234,6 +234,16 @@
 			}
 		]
 	},
+	"creaking": {
+		"entity_type": "creaking",
+		"variants": [
+			{
+				"type": "creaking",
+				"name": "Creaking",
+				"texture_url": "http://textures.minecraft.net/texture/aef009d86fcc420361a68cbb8bfa85a7422bfe9e2f306247be1e1b5d20fc52b1"
+			}
+		]
+	},
 	"creeper": {
 		"entity_type": "creeper",
 		"variants": [
@@ -473,6 +483,16 @@
 			}
 		]
 	},
+	"illusioner": {
+		"entity_type": "illusioner",
+		"variants": [
+			{
+				"type": "illusioner",
+				"name": "Illusioner",
+				"texture_url": "http://textures.minecraft.net/texture/d382701c67d6c54c907558891dc176225112518771e061c5d8bd918479e6bdd8"
+			}
+		]
+	},
 	"iron_golem": {
 		"entity_type": "iron_golem",
 		"variants": [
@@ -626,6 +646,11 @@
 	"phantom": {
 		"entity_type": "phantom",
 		"variants": [
+			{
+				"type": "flying_eyeball",
+				"name": "Flying Eyeball",
+				"texture_url": "http://textures.minecraft.net/texture/17db1923d03c4ef4e9f6e872c5a6ad2578b1aff2b281fbc3ffa7466c825fb9"
+			},
 			{
 				"type": "phantom",
 				"name": "Phantom",
@@ -847,9 +872,89 @@
 		"entity_type": "shulker",
 		"variants": [
 			{
+				"type": "black_shulker",
+				"name": "Black Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/15509cd34bfa4e3b8361ebe3f5d32c1f9dc5358c2dddd382fd1b40548d81e982"
+			},
+			{
+				"type": "blue_shulker",
+				"name": "Blue Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/2447d62a30fcb008c9871698d3533f06ac9988671fd1d800226398a1e09ec216"
+			},
+			{
+				"type": "brown_shulker",
+				"name": "Brown Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/e703276dc6aa43beeb90403368a5d34585fca9cc59e9ed81eb3fe0c3213f3b2"
+			},
+			{
+				"type": "cyan_shulker",
+				"name": "Cyan Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/86bb1b8cc00cf15a402f82f2275a44fb5ada84aed629481ec9610bc1e674a2d"
+			},
+			{
+				"type": "gray_shulker",
+				"name": "Grey Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/8da54e405aacc31fdefd05e3bf3f123653f1aa5d99f3e14d31fe3f2fff2327ea"
+			},
+			{
+				"type": "green_shulker",
+				"name": "Green Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/dab81ee397317a67c56b2e566a599765c14daddfa62dcef94aec7616540a262c"
+			},
+			{
+				"type": "light_blue_shulker",
+				"name": "Light Blue Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/20df90d994c95b10305ac91ad8aa1b6357e3135485e3e0b065b2ab85d773da27"
+			},
+			{
+				"type": "light_gray_shulker",
+				"name": "Light Grey Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/32d1b559d0f7be8a04851e5c311a21fe3da36c36fd3a34f366550e404378fda1"
+			},
+			{
+				"type": "lime_shulker",
+				"name": "Lime Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/a9daa06e127562f16e7df019f938c4167463e11ce5cb5de9800df0d6964d94a"
+			},
+			{
+				"type": "magenta_shulker",
+				"name": "Magenta Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/d30e44c0de328fd219b783523bc355ec10b8b7638ba054cc713703f52b4d3a3"
+			},
+			{
+				"type": "orange_shulker",
+				"name": "Orange Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/157df8463fb57a31c4a203d2648d63528da8d6ad841cc189fb1e8130d4f5a6b2"
+			},
+			{
+				"type": "pink_shulker",
+				"name": "Pink Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/b0cac6bdeb8d656e224d1af1fcfb206caaf663446a9de713ba3cd06d1d1470f0"
+			},
+			{
+				"type": "purple_shulker",
+				"name": "Purple Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/4e825392bb429ef3b3a46a78792c979b66e99c3f1b3106b790cbcf3e2f039000"
+			},
+			{
+				"type": "red_shulker",
+				"name": "Red Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/1a507388018c09bb4976c8a1227c4320d0ac562079743026541b8ac8a771f5ef"
+			},
+			{
 				"type": "shulker",
 				"name": "Shulker",
 				"texture_url": "http://textures.minecraft.net/texture/56c59b579f23fae7695b3beac880985f4f2363a69dbcb3ac19b0c98f18e832cc"
+			},
+			{
+				"type": "white_shulker",
+				"name": "White Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/12191ab42810bfb580a0fb6cf1676b8aa2dfecc9c5b20460e9a0f73bb52af664"
+			},
+			{
+				"type": "yellow_shulker",
+				"name": "Yellow Shulker",
+				"texture_url": "http://textures.minecraft.net/texture/dd93622fc08f23468431eabe339e369ca45ec9e86b7bbffc83ca17655eb77870"
 			}
 		]
 	},
