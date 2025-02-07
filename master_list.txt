@@ -29,8 +29,8 @@ Tabby Cat
 Tuxedo Cat
 White Cat
 Cave Spider
-Temperate Chicken
 Cold Chicken
+Temperate Chicken
 Warm Chicken
 Cod
 Cold Cow
