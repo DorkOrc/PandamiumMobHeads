@@ -1,4 +1,4 @@
-# Taxidermist Checklist (198):
+# Taxidermist Checklist (204):
 Allay
 Armadillo
 Curled Up Armadillo
@@ -29,9 +29,13 @@ Tabby Cat
 Tuxedo Cat
 White Cat
 Cave Spider
-Chicken
+Temperate Chicken
+Cold Chicken
+Warm Chicken
 Cod
-Cow
+Cold Cow
+Temperate Cow
+Warm Cow
 Charged Creeper
 Creeper
 Dolphin
@@ -83,7 +87,9 @@ Green Parrot
 Light Blue Parrot
 Red Parrot
 Phantom
-Pig
+Cold Pig
+Temperate Pig
+Warm Pig
 Piglin
 Piglin Brute
 Pillager

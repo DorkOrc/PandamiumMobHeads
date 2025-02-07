@@ -209,8 +209,18 @@
 		"variants": [
 			{
 				"type": "chicken",
-				"name": "Chicken",
+				"name": "Temperate Chicken",
 				"texture_url": "http://textures.minecraft.net/texture/42af6e5847eea099e1b0ab8c20a9e5f3c7190158bda54e28133d9b271ec0cb4b"
+			},
+			{
+				"type": "cold_chicken",
+				"name": "Cold Chicken",
+				"texture_url": "http://textures.minecraft.net/texture/71753dcf9ab37874c8d578e1559b383cb1d1f0bb3b29e6c9605f3a817be8fdc7"
+			},
+			{
+				"type": "warm_chicken",
+				"name": "Warm Chicken",
+				"texture_url": "http://textures.minecraft.net/texture/c51c74f6d1ed6befbe6376ca322b53bb6f68e11d1ce39c6bcedea29825993693"
 			}
 		]
 	},
@@ -228,9 +238,19 @@
 		"entity_type": "cow",
 		"variants": [
 			{
+				"type": "cold_cow",
+				"name": "Cold Cow",
+				"texture_url": "http://textures.minecraft.net/texture/e33221484d39f0d4ecdffa729567ce77fa8ce05b091db76dd5b079a20f7bf339"
+			},
+			{
 				"type": "cow",
-				"name": "Cow",
-				"texture_url": "http://textures.minecraft.net/texture/63d621100fea5883922e78bb448056448c983e3f97841948a2da747d6b08b8ab"
+				"name": "Temperate Cow",
+				"texture_url": "http://textures.minecraft.net/texture/87e7193a0c3ff82c18927d5a73015f057d087ff92c4bce1557be4623d30950ff"
+			},
+			{
+				"type": "warm_cow",
+				"name": "Warm Cow",
+				"texture_url": "http://textures.minecraft.net/texture/23b3376faf281c14ba472d2e7f6b6d0169e4bc2374835a9f8d0788e04d81343d"
 			}
 		]
 	},
@@ -662,9 +682,19 @@
 		"entity_type": "pig",
 		"variants": [
 			{
+				"type": "cold_pig",
+				"name": "Cold Pig",
+				"texture_url": "http://textures.minecraft.net/texture/ba18d4043cd6c903866788914fd534315281af9f259e34837e3e175e545c2ede"
+			},
+			{
 				"type": "pig",
-				"name": "Pig",
+				"name": "Temperate Pig",
 				"texture_url": "http://textures.minecraft.net/texture/41ee7681adf00067f04bf42611c97641075a44ae2b1c0381d5ac6b3246211bfe"
+			},
+			{
+				"type": "warm_pig",
+				"name": "Warm Pig",
+				"texture_url": "http://textures.minecraft.net/texture/7beba1a2d56e84f8e51fed6659f2cb7c14fed43859af584737897bf70c039475"
 			}
 		]
 	},
