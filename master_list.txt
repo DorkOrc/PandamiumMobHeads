@@ -29,8 +29,8 @@ Tabby Cat
 Tuxedo Cat
 White Cat
 Cave Spider
-Temperate Chicken
 Cold Chicken
+Temperate Chicken
 Warm Chicken
 Cod
 Cold Cow
@@ -82,8 +82,8 @@ Playful Panda
 Weak Panda
 Worried Panda
 Blue Parrot
-Grey Parrot
 Green Parrot
+Grey Parrot
 Light Blue Parrot
 Red Parrot
 Phantom
@@ -95,13 +95,13 @@ Piglin Brute
 Pillager
 Polar Bear
 Pufferfish
-White Splotched Rabbit
 Black Rabbit
 Brown Rabbit
 Gold Rabbit
 Salt and Pepper Rabbit
 Toast Rabbit
 White Rabbit
+White Splotched Rabbit
 Ravager
 Salmon
 Black Sheep
@@ -167,24 +167,24 @@ Armoured Wither
 Invulnerable Wither
 Wither
 Wither Skeleton
-Ashen Wolf
 Angry Ashen Wolf
-Black Wolf
 Angry Black Wolf
-Chestnut Wolf
 Angry Chestnut Wolf
-Pale Wolf
 Angry Pale Wolf
-Rusty Wolf
 Angry Rusty Wolf
-Snowy Wolf
 Angry Snowy Wolf
-Spotted Wolf
 Angry Spotted Wolf
-Striped Wolf
 Angry Striped Wolf
-Woods Wolf
 Angry Woods Wolf
+Ashen Wolf
+Black Wolf
+Chestnut Wolf
+Pale Wolf
+Rusty Wolf
+Snowy Wolf
+Spotted Wolf
+Striped Wolf
+Woods Wolf
 Zoglin
 Zombie
 Zombie Armourer
@@ -213,8 +213,8 @@ Black Shulker
 Blue Shulker
 Brown Shulker
 Cyan Shulker
-Grey Shulker
 Green Shulker
+Grey Shulker
 Light Blue Shulker
 Light Grey Shulker
 Lime Shulker
