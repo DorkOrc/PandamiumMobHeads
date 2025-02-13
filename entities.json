@@ -564,12 +564,12 @@
 			{
 				"type": "brown_mooshroom",
 				"name": "Brown Mooshroom",
-				"texture_url": "http://textures.minecraft.net/texture/7e6466302a5ab4398b4e477349808e5d9402ea3ad8fc42e2446e4bed0a5ed5e"
+				"texture_url": "http://textures.minecraft.net/texture/1051f5cd554d972050dfc53cecd5d75325489004ad08b3e54572acad96b25363"
 			},
 			{
 				"type": "red_mooshroom",
 				"name": "Red Mooshroom",
-				"texture_url": "http://textures.minecraft.net/texture/da80606e82c642f141587733e3180ae57f646442c9fffd4e5997457e34311a29"
+				"texture_url": "http://textures.minecraft.net/texture/43e75a01a398a31e2d282bbbfd2b6172d2ae67cd83876948485b85881a15af23"
 			}
 		]
 	},
