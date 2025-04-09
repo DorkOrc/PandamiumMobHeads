@@ -1,4 +1,4 @@
-# Taxidermist Checklist (204):
+# Taxidermist Checklist (205):
 Allay
 Armadillo
 Curled Up Armadillo
@@ -55,6 +55,7 @@ Glow Squid
 Goat
 Screaming Goat
 Guardian
+Happy Ghast
 Hoglin
 Black Horse
 Brown Horse

@@ -287,6 +287,10 @@
 								},
 								{
 									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/happy_ghast/happy_ghast"
+								},
+								{
+									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/hoglin/hoglin"
 								},
 								{
@@ -372,16 +376,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/panda/brown_panda"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/panda/lazy_panda"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Glow Squid - Lazy Panda"
+							"name": "Glow Squid - Brown Panda"
 						}
 					]
 				}
@@ -398,6 +398,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/panda/lazy_panda"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/panda/panda"
@@ -501,16 +505,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/rabbit/white_rabbit"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/ravager/ravager"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Panda - Ravager"
+							"name": "Lazy Panda - White Rabbit"
 						}
 					]
 				}
@@ -527,6 +527,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/ravager/ravager"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/salmon/salmon"
@@ -630,16 +634,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/shulker/light_gray_shulker"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/shulker/lime_shulker"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Salmon - Lime Shulker"
+							"name": "Ravager - Light Grey Shulker"
 						}
 					]
 				}
@@ -656,6 +656,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/shulker/lime_shulker"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/shulker/magenta_shulker"
@@ -759,16 +763,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/tropical_fish/tropical_fish"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/turtle/turtle"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Magenta Shulker - Turtle"
+							"name": "Lime Shulker - Tropical Fish"
 						}
 					]
 				}
@@ -785,6 +785,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/turtle/turtle"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/vex/charging_vex"
@@ -888,16 +892,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/wither_skeleton/wither_skeleton"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/wolf/ashen_wolf"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Charging Vex - Ashen Wolf"
+							"name": "Turtle - Wither Skeleton"
 						}
 					]
 				}
@@ -914,6 +914,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/wolf/ashen_wolf"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/wolf/ashen_wolf_angry"
@@ -1017,16 +1021,12 @@
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/zombie_villager/fisherman_zombie_villager"
-								},
-								{
-									"type": "minecraft:loot_table",
-									"value": "pandamium.mob_heads:heads/zombie_villager/fletcher_zombie_villager"
 								}
 							]
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Angry Ashen Wolf - Zombie Fletcher"
+							"name": "Ashen Wolf - Zombie Fisherman"
 						}
 					]
 				}
@@ -1043,6 +1043,10 @@
 							"function": "minecraft:set_contents",
 							"component": "minecraft:container",
 							"entries": [
+								{
+									"type": "minecraft:loot_table",
+									"value": "pandamium.mob_heads:heads/zombie_villager/fletcher_zombie_villager"
+								},
 								{
 									"type": "minecraft:loot_table",
 									"value": "pandamium.mob_heads:heads/zombie_villager/leatherworker_zombie_villager"
@@ -1083,7 +1087,7 @@
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Zombie Leatherworker - Zombified Piglin"
+							"name": "Zombie Fletcher - Zombified Piglin"
 						}
 					]
 				}

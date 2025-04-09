@@ -443,6 +443,16 @@
 			}
 		]
 	},
+	"happy_ghast": {
+		"entity_type": "happy_ghast",
+		"variants": [
+			{
+				"type": "happy_ghast",
+				"name": "Happy Ghast",
+				"texture_url": "http://textures.minecraft.net/texture/82698aa7274ee241d31362e2faa48cfa733d25010516568d40f3f967247da11b"
+			}
+		]
+	},
 	"hoglin": {
 		"entity_type": "hoglin",
 		"variants": [
