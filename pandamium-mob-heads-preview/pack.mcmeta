@@ -11,7 +11,12 @@
 				"color":"aqua"
 			}
 		],
-		"min_format": [94,1],
-		"max_format": [94,1]
+		"pack_format": 45,
+		"supported_formats": {
+			"min_inclusive": 45,
+			"max_inclusive": 94
+		},
+		"min_format": 45,
+		"max_format": 94
 	}
 }
