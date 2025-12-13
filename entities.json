@@ -134,6 +134,16 @@
 			}
 		]
 	},
+	"camel_husk": {
+		"entity_type": "camel_husk",
+		"variants": [
+			{
+				"type": "camel_husk",
+				"name": "Camel Husk",
+				"texture_url": "http://textures.minecraft.net/texture/750bfc9b2cc40f4d8d0224ccbabac26b338aa947d99dcde769f859b59b8d0b0e"
+			}
+		]
+	},
 	"cat": {
 		"entity_type": "cat",
 		"variants": [
@@ -234,18 +244,43 @@
 			}
 		]
 	},
+	"copper_golem": {
+		"entity_type": "copper_golem",
+		"variants": [
+			{
+				"type": "copper_golem",
+				"name": "Copper Golem",
+				"texture_url": "http://textures.minecraft.net/texture/99e24e94dbe42e230d83293a77d61ff7101a8c68ab68bbc6a93f9630fb2fdb4"
+			},
+			{
+				"type": "exposed_copper_golem",
+				"name": "Exposed Copper Golem",
+				"texture_url": "http://textures.minecraft.net/texture/8a9e410c8b7fdbd4b9d8ea8075bc66a9c1ada9bc15873b4b1deadaa2812b847d"
+			},
+			{
+				"type": "oxidized_copper_golem",
+				"name": "Oxidized Copper Golem",
+				"texture_url": "http://textures.minecraft.net/texture/8262992d6d5a62a1dd3ede8e4c34f1c18050bab64271d926c1c0c6162b2cd74e"
+			},
+			{
+				"type": "weathered_copper_golem",
+				"name": "Weathered Copper Golem",
+				"texture_url": "http://textures.minecraft.net/texture/cc2aab8a0fec3cc06a4d47480e024f88f2b07bc96ee09e5331e5f4db6b273885"
+			}
+		]
+	},
 	"cow": {
 		"entity_type": "cow",
 		"variants": [
 			{
 				"type": "cold_cow",
 				"name": "Cold Cow",
-				"texture_url": "http://textures.minecraft.net/texture/e33221484d39f0d4ecdffa729567ce77fa8ce05b091db76dd5b079a20f7bf339"
+				"texture_url": "http://textures.minecraft.net/texture/ad068885d2dfa3a309363af0a87dca6fbf629f713074f9686219d7ba7af7008d"
 			},
 			{
 				"type": "cow",
 				"name": "Temperate Cow",
-				"texture_url": "http://textures.minecraft.net/texture/87e7193a0c3ff82c18927d5a73015f057d087ff92c4bce1557be4623d30950ff"
+				"texture_url": "http://textures.minecraft.net/texture/8f8ce3915a21168d8394214552cdb5652e855e9e382001d596972fe3c009ea7d"
 			},
 			{
 				"type": "warm_cow",
@@ -394,17 +429,13 @@
 			}
 		]
 	},
-	"generate": {
-		"entity_type": "generate",
-		"variants": []
-	},
 	"ghast": {
 		"entity_type": "ghast",
 		"variants": [
 			{
 				"type": "ghast",
 				"name": "Ghast",
-				"texture_url": "http://textures.minecraft.net/texture/c53de31a2d0041a6ef75bf7a6c8468464db1aaa6201ebb1a6013edb2245c7607"
+				"texture_url": "http://textures.minecraft.net/texture/504843421c218d0634455fdb1a6c5f7ae5b85098a50b12b9ed9d9310c84dc61b"
 			}
 		]
 	},
@@ -593,6 +624,16 @@
 			}
 		]
 	},
+	"nautilus": {
+		"entity_type": "nautilus",
+		"variants": [
+			{
+				"type": "nautilus",
+				"name": "Nautilus",
+				"texture_url": "http://textures.minecraft.net/texture/b53d63eb175b00fb35285f4330d0be68a0713db94e00e6fdd85832d41e3a08b"
+			}
+		]
+	},
 	"ocelot": {
 		"entity_type": "ocelot",
 		"variants": [
@@ -640,6 +681,16 @@
 				"type": "worried_panda",
 				"name": "Worried Panda",
 				"texture_url": "http://textures.minecraft.net/texture/fb86fd1bf8cbce23bc08fb90691717611addc85ab823b7714aec98a5660eff15"
+			}
+		]
+	},
+	"parched": {
+		"entity_type": "parched",
+		"variants": [
+			{
+				"type": "parched",
+				"name": "Parched",
+				"texture_url": "https://textures.minecraft.net/texture/fc6b3a1a859ed84f17c74255312494bb64d1c823a82d5ef322dc4646ab120f79"
 			}
 		]
 	},
@@ -1455,6 +1506,16 @@
 				"type": "zombie_horse",
 				"name": "Zombie Horse",
 				"texture_url": "http://textures.minecraft.net/texture/6618ffbe1cfa2058fe80a065f70c128c225a1e0bc9deaf8b38b0395443f40909"
+			}
+		]
+	},
+	"zombie_nautilus": {
+		"entity_type": "zombie_nautilus",
+		"variants": [
+			{
+				"type": "zombie_nautilus",
+				"name": "Zombie Nautilus",
+				"texture_url": "http://textures.minecraft.net/texture/929928fdf0d975349f258740d34ca8e5b2751b6c5a3c2931e451a3867479a78e"
 			}
 		]
 	},

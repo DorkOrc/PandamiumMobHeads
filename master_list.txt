@@ -1,4 +1,4 @@
-# Taxidermist Checklist (205):
+# Taxidermist Checklist (213):
 Allay
 Armadillo
 Curled Up Armadillo
@@ -17,6 +17,7 @@ Bogged
 Shorn Bogged
 Breeze
 Camel
+Camel Husk
 Black Cat
 British Shorthair Cat
 Calico Cat
@@ -33,6 +34,10 @@ Cold Chicken
 Temperate Chicken
 Warm Chicken
 Cod
+Copper Golem
+Exposed Copper Golem
+Oxidized Copper Golem
+Weathered Copper Golem
 Cold Cow
 Temperate Cow
 Warm Cow
@@ -74,6 +79,7 @@ Magma Cube
 Brown Mooshroom
 Red Mooshroom
 Mule
+Nautilus
 Ocelot
 Aggressive Panda
 Brown Panda
@@ -82,6 +88,7 @@ Panda
 Playful Panda
 Weak Panda
 Worried Panda
+Parched
 Blue Parrot
 Green Parrot
 Grey Parrot
@@ -188,6 +195,7 @@ Striped Wolf
 Woods Wolf
 Zoglin
 Zombie
+Zombie Nautilus
 Zombie Armourer
 Zombie Butcher
 Zombie Cartographer
